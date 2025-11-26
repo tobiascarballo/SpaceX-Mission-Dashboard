@@ -67,7 +67,8 @@ Algunos archivos y carpetas importantes:
 ---
 
 ## 📷 Capturas de Pantalla
-
+<img width="1919" height="902" alt="image" src="https://github.com/user-attachments/assets/72079430-b6bd-417a-9327-a162dec8b679" />
+<img width="1919" height="880" alt="image" src="https://github.com/user-attachments/assets/649e8047-8a14-4ac1-be08-9e813312dd71" />
 
 ---
 
